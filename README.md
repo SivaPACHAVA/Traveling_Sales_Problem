@@ -1,1 +1,1 @@
-# Traveling_Sales_Problem
+# Traveling_Salesman_Problem
